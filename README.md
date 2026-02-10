@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+A developer and emerging technologist focused on expressing creativity through code and project work. This profile reflects an evolving portfolio of personal and professional growth, featuring key projects that showcase technical exploration, resume iteration, and learning journey. Core themes include software development fundamentals, project documentation, and continuous skill expansion aligned with academic and career goals. Designed to highlight openness to collaboration, learning contributions, and future innovation in software and product development.
 
 <!--
 **klaioff/klaioff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
